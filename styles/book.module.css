@@ -1,0 +1,12 @@
+.bookContainer{
+    display:flex;
+    padding:25px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.abook{
+    margin: 15px;
+    width: 250px;
+    max-height:600px;
+}
